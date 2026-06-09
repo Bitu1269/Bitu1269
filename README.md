@@ -38,14 +38,13 @@
 
 ## 📊 GitHub Stats 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitu-kumar1269&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitu-kumar1269&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=bitu-kumar1269&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bitu-kumar1269&theme=transparent&hide_border=false)<br/>
 
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitu-kumar1269&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
+
 ## 💭 Random Dev Quote
 
 <div align="center">
