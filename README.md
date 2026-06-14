@@ -71,7 +71,17 @@
 
 <div align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitu-kumar1269&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
+</div><br>
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+
+<a href="https://leetcode.com/u/bitu-kumar1269/" target="_blank">
+<img src="https://leetcard.jacoblin.cool/bitu-kumar1269?theme=dark&font=Karma&ext=contest" />
+</a>
+
+</p>
 
 ## 💭 Random Dev Quote
 
@@ -80,6 +90,17 @@
 </div>
 
 ## 🌐 Connect with Me.
+<p align="center">
+
+<a href="https://leetcode.com/u/bitu-kumar1269/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-bitu-kumar1269-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/bitu-kumar1269" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-bitu-kumar1269-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 <div align="center">
 
