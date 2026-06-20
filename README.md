@@ -90,7 +90,11 @@
 </p>
 
 ## 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
+## 🌐 Connect with Me.
 <p align="center">
   <a href="https://www.linkedin.com/in/bitu-kumar-825815284" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
