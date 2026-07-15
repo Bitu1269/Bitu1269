@@ -60,14 +60,6 @@
   <img src="https://github.com/Bitu1269/Bitu1269/blob/output/github-snake-dark.svg" alt="GitHub Contributions Snake" />
 </div><br>
 
-<a href="https://github.com/bitu-kumar1269">
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/walidbosso/walidbosso/pcman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/walidbosso/walidbosso/pacman/pacman-contribution-graph.svg">
-</picture>
- </a>
 <!-- <p align="center">
 <img src=https://skills.syvixor.com/api/icons?perline=8&i=python,cpp,c,html,css3,tailwindcss,nextjs,typescript,javascript,reactjs,reactnative,vite,mysql,postgresql,mongodb,expressjs,nodejs,replit,postman,googlecloud,amazonwebservices,googlecolaboratory,tensorflow,pytorch,jupyter,anaconda,fastapi,flask,opencv,streamlit,docker,discord,git,gitbash,githubcopilot,github,githubpages,githubactions,markdown,netlify,unrealengine,linux,kalilinux,npm,yarn,powershell,curl,cloudflare,jenkins,golang,canva,gemini>
 </p> -->
